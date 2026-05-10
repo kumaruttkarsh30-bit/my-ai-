@@ -1,0 +1,11 @@
+{
+  "name": "utkarsh-ai",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node index.js",
+    "build": "react-scripts build"
+  },
+  "dependencies": {
+    "express": "^4.18.0"
+  }
+}
